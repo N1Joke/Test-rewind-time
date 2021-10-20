@@ -1802,7 +1802,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _shooter: {fileID: 963194229}
   _rewindButton: {fileID: 891675092}
-  _delayToChekMovements: 1
+  _delayToChekMovements: 0.5
 --- !u!1 &2140740097
 GameObject:
   m_ObjectHideFlags: 0
